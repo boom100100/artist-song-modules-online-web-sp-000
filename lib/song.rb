@@ -19,5 +19,5 @@ def self.all
   def artist=(artist)
     @artist = artist
   end
-  
+
 end
