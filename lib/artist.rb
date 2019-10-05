@@ -42,4 +42,3 @@ class Artist
     name.downcase.gsub(' ', '-')
   end
 end
-
